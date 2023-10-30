@@ -6,6 +6,7 @@ the main program
   
 ## extern.py
 elevator request on a floor for up or down 
+future: call buttons for a specific floor
 
 ## intern.py
 floor selection within an elevator car
